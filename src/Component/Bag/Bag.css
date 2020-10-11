@@ -1,0 +1,24 @@
+.wishList{
+    width: 100%;
+    margin-top: 80px;
+    font-size: 14px;
+}
+.wishList .price{
+    margin: 10px;
+    width: 150px;
+    border: 1px;
+    border-radius: 7px;
+    padding: 10px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.wishList .checkout{
+    padding: 10px;
+    margin: 10px;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 7px;
+    font-size: 12px;
+    text-transform: uppercase;
+    cursor: pointer;
+}

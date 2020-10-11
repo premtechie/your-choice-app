@@ -1,0 +1,32 @@
+.card{
+    width:180px;
+    margin: 10px;
+    background-color:whitesmoke;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.card:hover{
+    /* -webkit-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.75);  
+    -moz-box-shadow:    3px 3px 3px 0px rgba(0,0,0,0.75); 
+    box-shadow:         3px 3px 3px 0px rgba(0,0,0,0.75); */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    
+}
+.card p{
+    font-size: 13px;
+    text-align: start;
+    padding: 0 10px;
+    font-weight: 600;
+}
+
+.prod-price{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    line-height: 15px;
+}
+@media(max-width:650px){
+    .card{
+        height: 100%;
+    }
+}

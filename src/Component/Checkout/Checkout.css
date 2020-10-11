@@ -1,0 +1,74 @@
+.checkout{
+    margin: 10px;
+    margin-top: 90px;
+}
+.billing{
+    width: 300px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: whitesmoke;
+}
+.billing h4{
+    text-align: start;
+    padding-left: 10px;
+}
+.payment select{
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+.personal-detail{
+    display: flex;
+    flex-flow: column;
+}
+
+.personal-detail label{
+   font-size: 12px;
+   text-align: start;
+   margin: 0 10px;
+}
+.personal-detail input{
+    margin: 10px;
+    padding: 10px;
+}
+.item{
+    width: 250px;
+    display: flex;
+    align-items: flex-start;
+    padding:5px 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+.item p{
+    font-size: 12px;
+    line-height: 10px;
+}
+.item img{
+    width: 60px;
+    height: 100%;
+    border-radius: 7px;
+}
+
+.item-details{
+    padding: 0 10px;
+    text-align: start;
+}
+.prod-price{
+    text-align: start;
+    margin: 0 10px;
+    padding: 0 10px;
+    font-size: 13px;
+}
+
+.checkout button{
+    margin: 20px;
+    padding: 10px;
+    border: none;
+    background-color: hotpink;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.success-msg{
+    text-align: center;
+}

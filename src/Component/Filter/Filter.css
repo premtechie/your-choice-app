@@ -1,0 +1,18 @@
+.filter{
+    width: 50%;
+    display: flex;
+    padding: 1rem;
+    margin: 1rem;
+    justify-content: space-between;
+    text-align: start;
+    align-items: center;
+}
+.filter div{
+    display: flex;
+    flex: 1;
+
+}
+.filter select{
+    margin: 10px;
+    padding: 8px;
+}

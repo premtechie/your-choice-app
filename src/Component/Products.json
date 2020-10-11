@@ -1,0 +1,478 @@
+{
+    "mens":{
+        "tShirt":{
+                "produt1_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/3082339/2018/4/3/11522755896989-Mast--Harbour-Men-Tshirts-4371522755896814-1.jpg",
+                    "size":["M","L"],
+                    "price":"350",
+                    "brand":"Tommy T-Shirt"
+                },
+                "produt2_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg",
+                    "size":["L","XL"],
+                    "price":"349",
+                    "brand":"Puma T-Shirt"
+                },"produt3_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700871/2020/1/22/ee026dfd-53d5-431f-8f49-793d1b1a3ca91579692118057-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-3.jpg",
+                    "size":["M","L"],
+                    "price":"330",
+                    "brand":"HRX T-Shirt"
+                },"produt4_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700875/2017/2/21/11487675461714-HRX-by-Hrithik-Roshan-Men-Grey-Printed-Round-Neck-T-Shirt-231487675461999-2.jpg",
+                    "size":["M","XL"],
+                    "price":"350",
+                    "brand":"HRX T-Shirt"
+                },"produt5_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8277543/2019/1/29/6f3e3d59-afd5-4f18-9dab-a8ac3f80e58a1548763603067-HERENOW-Men-Tshirts-9921548763601649-1.jpg",
+                    "size":["L","XL"],
+                    "price":"300",
+                    "brand":"Tommy T-Shirt"
+                },"produt6_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4318137/2018/4/26/11524721115441-HERENOW-Men-Navy-Blue-Solid-Round-Neck-T-shirt-2551524721115296-1.jpg",
+                    "size":["XL"],
+                    "price":"350",
+                    "brand":"Highlander T-Shirt"
+
+                },"produt7_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5508824/2018/6/7/44537613-dd58-49c9-941b-2f66b61378821528370064708-HERENOW-Men-White-Striped-Round-Neck-T-shirt-646152837006341-1.jpg",
+                    "size":["M","L","XL"],
+                    "price":"399",
+                    "brand":"Highlander T-Shirt"
+                },"produt8_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7088216/2018/8/29/9d288e9c-26eb-4196-a1d1-da441e17aa731535537904678-HERENOW-Men-Red-Printed-Round-Neck-T-shirt-8181535537904482-1.jpg",
+                    "size":["M","XL"],
+                    "price":"350",
+                    "brand":"Tommy T-Shirt"
+                },"produt9_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8879269/2019/3/6/719f6f6d-f10f-41c9-97dd-3332808459b61551877361639-HERENOW-Men-Mauve-Printed-Round-Neck-T-shirt-324155187736060-1.jpg",
+                    "size":["XL","L"],
+                    "price":"450",
+                    "brand":"Puma T-Shirt"
+                },"produt10_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1704565/2017/12/18/11513575078528-ether-Men-Navy-Blue-Striped-Round-Neck-T-Shirt-7151513575078345-2.jpg",
+                    "size":["M","L","XL"],
+                    "price":"400",
+                    "brand":"Adidas T-Shirt"
+                },"produt11_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11533654/2020/9/28/ab0693fe-bd7b-4d93-b826-49c7f7fde80f1601269142361-Roadster-Men-Tshirts-6831601269141034-1.jpg",
+                    "size":["XL","L"],
+                    "price":"450",
+                    "brand":"Puma T-Shirt"
+                },"produt12_T":{
+                    "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11533780/2020/9/10/8034b771-3b51-438b-919c-5c9eae36bd2b1599715319772-Roadster-Men-Tshirts-5901599715317777-1.jpg",
+                    "size":["M","L","XL"],
+                    "price":"400",
+                    "brand":"Adidas T-Shirt"
+                }
+    },
+    "pants":{
+        "produt1_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9162839/2019/4/2/0164b22a-3fcf-4dfb-88d4-6cab8280b2661554196314474-HIGHLANDER-Black-9481554196313078-1.jpg",
+            "size":[28,30,32,34],
+            "price":"800",
+            "brand":"Pepe Jeans"
+        },
+        "produt2_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9162835/2019/4/2/ec096bc0-d2d9-4cf1-9fe8-7f395675e1671554196295298-HIGHLANDER-grey-4041554196293189-1.jpg",
+            "size":[28,30,32,34],
+            "price":"790",
+            "brand":"H & M Jeans"
+        },"produt3_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7438764/2018/9/20/eb4d7f4c-bf48-4a19-8c78-417bf6c857041537442920427-HIGHLANDER-Men-Grey-Tapered-Fit-Mid-Rise-Clean-Look-Stretcha-1.jpg",
+            "size":[28,30,32,34],
+            "price":"850",
+            "brand":"Locomotive Jeans"
+
+        },"produt4_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5814352/2019/3/18/086a3894-57e8-495f-99f8-f94d39d742e11552900358478-HIGHLANDER-Men-Black-Tapered-Fit-Mid-Rise-Clean-Look-Stretch-1.jpg",
+            "size":[28,30,32,34],
+            "price":"950",
+            "brand":"Cobb Jeans"
+
+        },"produt5_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2174890/2017/12/5/11512469400195-HIGHLANDER-Men-Blue-Slim-Tapered-Fit-Mildly-Distressed-Stretchable-Ankle-Length-Jeans-6801512469400031-1.jpg",
+            "size":[28,30,32,34],
+            "price":"700",
+            "brand":"Calvin Klein Jeans"
+
+        },"produt6_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2174898/2017/12/5/11512458927669-HIGHLANDER-Men-Blue-Slim-Tapered-Fit-Mildly-Distressed-Ankle-Length-Stretchable-Jeans-9691512458927453-1.jpg",
+            "size":[28,30,32,34],
+            "price":"1000",
+            "brand":"Pepe Jeans"
+
+        },"produt7_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2948544/2020/2/19/f0e24961-ee61-4109-a938-ca79cc293a111582107269721-HIGHLANDER-by-Rohit-Sharma-Men-Blue-Slim-Mid-Rise-Clean-Look-1.jpg",
+            "size":[28,30,32,34],
+            "price":"1250",
+            "brand":"Roadster Jeans"
+
+        },"produt8_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2948549/2018/3/27/11522151839233-HIGHLANDER-Men-Blue-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-6811522151839044-2.jpg",
+            "size":[28,30,32,34],
+            "price":"1350",
+            "brand":"Pepe Jeans"
+
+        },"produt9_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7255268/2019/10/18/c1778e53-be6d-4a1c-8c27-fff7688541221571405177912-Mast--Harbour-Men-Navy-Blue-Skinny-Fit-Mid-Rise-Clean-Look-S-2.jpg",
+            "size":[28,30,32,34],
+            "price":"1300",
+            "brand":"Roadster Jeans"
+
+        },"produt10_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5669588/2018/6/12/0dcec4bb-3be9-4c67-9d9a-ecdcc937f98d1528807434080-Roadster-Men-Blue-Skinny-Fit-Mid-Rise-Mildly-Distressed-Stretchable-Jeans-4491528807433906-1.jpg",
+            "size":[28,30,32,34],
+            "price":"999",
+            "brand":"Highlander Jeans"
+        },"produt11_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/11/25/35ffe6e1-334e-45e1-aee0-e7a58869878c1543085368492-1.jpg",
+            "size":[28,30,32,34],
+            "price":"1800",
+            "brand":"Roadster Jeans"
+
+        },"produt12_pants":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1729343/2017/1/25/11485337759760-WROGN-Men-Black-Skinny-Fit-Mid-Rise-Clean-Look-Jeans-7461485337759525-1.jpg",
+            "size":[28,30,32,34],
+            "price":"1999",
+            "brand":"Highlander Jeans"
+        }
+    },
+    "shirt":{
+        "produt1_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8771117/2019/3/25/e309169a-ecbc-4a8a-8791-43be691b3e031553512867668-Raymond-Men-Blue-Slim-Fit-Solid-Formal-Shirt-345155351286538-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1890",
+            "brand":"Raymond Shirt"
+        },
+        "produt2_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/8/31/38414403-ddfc-41cf-8655-f4e36c0500aa1567223399212-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1350",
+            "brand":"Parrx Shirt"
+        },"produt3_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/6/12/a509860f-393e-43ed-9cdd-e22f3db1d4091560341177087-1.jpg",
+            "size":["M","L","XL"],
+            "price":"900",
+            "brand":"Parx Shirt"
+        },"produt4_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/2/14/11adb5a6-9666-4bd2-8ed8-03fd20291f9d1581635929903-1.jpg",
+            "size":["M","L","XL"],
+            "price":"999",
+            "brand":"Highlander Shirt"
+        },"produt5_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/2/5/15081766-9282-455f-a1b1-709a2d61f1ea1549333654554-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1250",
+            "brand":"English Navy Shirt"
+        },"produt6_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5126313/2018/4/17/11523965342225-JAINISH-Men-Grey-Classic-Slim-Fit-Solid-Formal-Shirt-1931523965341989-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1550",
+            "brand":"Highlander Shirt"
+        },"produt7_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5126310/2018/4/17/11523965321108-JAINISH-Men-Brown-Classic-Slim-Fit-Solid-Formal-Shirt-4381523965320905-1.jpg",
+            "size":["M","L","XL"],
+            "price":"850",
+            "brand":"Jainis Shirt"
+        },"produt8_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9442085/2019/4/29/c0d39fd3-03ae-49a9-918a-392013da34b01556526124312-JAINISH-Men-Olive-Green-Slim-Fit-Solid-Formal-Shirt-93715565-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1900",
+            "brand":"Tommy Shirt"
+        },"produt9_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8770683/2019/4/3/25f1c0e6-33be-4102-9eac-c2c12034604e1554275277921-Raymond-Men-Blue-Slim-Fit-Self-Design-Formal-Shirt-940155427-1.jpg",
+            "size":["M","L","XL"],
+            "price":"2350",
+            "brand":"Raymond Shirt"
+        },"produt10_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8770769/2019/3/6/81463bf0-d0e3-4caf-b8d9-f7284d2cf6151551851459776-Raymond-Men-Blue-Slim-Fit-Solid-Formal-Shirt-704155185145885-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1850",
+            "brand":"Raymond Shirt"
+        },"produt11_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7460073/2018/9/21/1c88b4ea-b2b3-4c75-b1f5-82bff7252d8b1537519651731-NA-1711537519651556-1.jpg",
+            "size":["M","L","XL"],
+            "price":"2350",
+            "brand":"Raymond Shirt"
+        },"produt12_shirt":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1849875/2017/4/12/11491983816358-Hancock-Men-Shirts-7081491983816126-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1850",
+            "brand":"Raymond Shirt"
+        }
+    }
+
+},
+"womens":{
+    "kurtis":{
+        "produt1_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8969717/2019/3/28/e448c9a1-3a0f-40e7-b267-1bf44a44ba501553778956208-Indo-Era-Beige-Solid-Straight-Kurta-Sets-9801553778954623-1.jpg",
+            "size":["M","L","S","XL"],
+            "price":"1350",
+            "brand":"Indo Era"
+        },
+        "produt2_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10779494/2019/11/2/9e216bb2-23f9-4e07-8f82-6c804d4deb4b1572680245009-Indo-Era-Foil-Printed-Straight-Kurta-with-Palazzo-Dupatta-Se-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1300",
+            "brand":"Indo Era"
+        },"produt3_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10885078/2019/11/21/7bcebac3-e62a-4b04-b77d-6137daeef6a81574346823453-Indo-Era-Solid-Straight-Kurta-with-Palazzo-Dupatta-Set-30815-1.jpg",
+            "size":["M","L","XL"],
+            "price":"890",
+            "brand":"Indo Era"
+        },"produt4_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11501490/2020/2/25/a80137f1-f248-460a-aa01-99657705b8721582607665452-Soch-Turquoise-Viscose-Rayon-Solid-Kurta-7951582607663869-1.jpg",
+            "size":["M","L","XL","S"],
+            "price":"2350",
+            "brand":"Soch"
+        },"produt5_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10808284/2019/10/30/c35d059d-a357-4863-bcb1-eacd8c988fb01572422803188-AHIKA-Women-Kurtas-8841572422802083-1.jpg",
+            "size":["L","XL","M","S"],
+            "price":"1999",
+            "brand":"Soch"
+        },"produt6_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9329399/2019/4/24/8df4ed41-1e43-4a0d-97fe-eb47edbdbacd1556086871124-Libas-Women-Kurtas-6161556086869769-1.jpg",
+            "size":["M","XL","S"],
+            "price":"1350",
+            "brand":"Libas"
+
+        },"produt7_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2463738/2018/2/23/11519378307497-AKS-Women-Navy--Off-White-Printed-Straight-Kurta-9971519378307264-1.jpg",
+            "size":["M","L","XL"],
+            "price":"1350",
+            "brand":"AKS"
+        },"produt8_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2528325/2018/3/15/11521096428996-Libas-Women-Kurtas-871521096428801-1.jpg",
+            "size":["M","XL","S","L"],
+            "price":"1250",
+            "brand":"Libas"
+        },"produt9_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2110558/2018/4/13/11523617167748-Vishudh-Women-Black--Gold-Toned-Printed-Straight-Kurta-9041523617167566-1.jpg",
+            "size":["M","L","S"],
+            "price":"1999",
+            "brand":"Visudh"
+        },"produt10_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1274351/2018/4/14/11523679194097-Vishudh-Black-Printed-A-Line-Kurta-8721523679193931-1.jpg",
+            "size":["M","L","XL","S"],
+            "price":"850",
+            "brand":"Visudh"
+        },"produt11_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6539972/2018/6/4/e22e5c5b-2b2e-49ee-b64f-cbbd5a95f5fe1528088436873-GERUA-Women-Kurtis-9841528088436747-1.jpg",
+            "size":["M","L","S"],
+            "price":"1999",
+            "brand":"Visudh"
+        },"produt12_kurtis":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10960690/2019/12/31/50e2ba4a-1f47-46b0-9f88-5f10a79703911577792756781-Anouk-Women-Kurtas-1421577792754782-1.jpg",
+            "size":["M","L","XL","S"],
+            "price":"850",
+            "brand":"Visudh"
+        }       
+    },
+    "saree":{
+        "produt1_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10237651/2019/7/18/d66e2398-1373-4dd3-8520-c436737d643b1563442287805-Tikhi-Imli-Women-Sarees-4961563442286404-1.jpg",
+            "size":["oneSize"],
+            "price":"2350",
+            "brand":"Indo Era"
+        },
+        "produt2_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720897/2019/6/10/767aea59-297c-4ac5-a3c2-91a760c179e31560171946422-Ishin-Poly-Georgette-Grey-Foil-Printed-Womens-Saree-57015601-1.jpg",
+            "size":["oneSize"],
+            "price":"1990",
+            "brand":"Indo Era"
+        },"produt3_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10322773/2019/8/23/da5d2d0f-3a35-4924-bafe-b355d8ccbe251566562998397-Satrani-Pink-Printed-ShimmerChiffon-Saree-3581566562997118-1.jpg",
+            "size":["oneSize"],
+            "price":"1080",
+            "brand":"Indo Era"
+        },"produt4_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11040752/2019/12/17/0ea7d662-6cdc-472f-b885-ddea8c4d59281576577348076-Satrani-Beige-Cotton-Silk-Woven-Checks-Saree-With-Unstitched-1.jpg",
+            "size":["oneSize"],
+            "price":"2500",
+            "brand":"Satrini"
+        },"produt5_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11040752/2019/12/17/0ea7d662-6cdc-472f-b885-ddea8c4d59281576577348076-Satrani-Beige-Cotton-Silk-Woven-Checks-Saree-With-Unstitched-1.jpg",
+            "size":["oneSize"],
+            "price":"1999",
+            "brand":"Soch"
+        },"produt6_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10852868/2019/12/3/590902e7-f0c7-4575-930b-980d54a708cf1575377202703-GoSriki-Beige-Khadi-Blend-Solid-Printed-Saree-12215753772006-1.jpg",
+            "size":["oneSize"],
+            "price":"2350",
+            "brand":"GoSirki"
+
+        },"produt7_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10500888/2019/9/6/33d2347a-a1c6-41e1-83dc-479949a883b71567768011291-Ishin-Off-White--Beige-Art-Silk-Printed-Mysore-Silk-Saree-38-1.jpg",
+            "size":["oneSize"],
+            "price":"1550",
+            "brand":"Ishin"
+        },"produt8_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9720893/2019/6/15/4c7ba512-08f1-461f-9d3f-49d7a1d37f5a1560586220290-Ishin-Pink--Black-Poly-Georgette-Printed-Saree-3761560586218-1.jpg",
+            "size":["oneSize"],
+            "price":"1990",
+            "brand":"Ishin"
+        },"produt9_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12086612/2020/8/24/23978ef5-e9cf-40f3-aaa5-fb7145b20a0d1598252052868VipulMagentaVividChiffonSareewithPrintedBlouse1.jpg",
+            "size":["oneSize"],
+            "price":"1999",
+            "brand":"Vipul"
+        },"produt10_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/8/11/bc06563a-c480-46aa-a8eb-49aaced6f5271565465392429-3.jpg",
+            "size":["oneSize"],
+            "price":"1850",
+            "brand":"Mitera"
+        },"produt11_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7234284/2018/8/27/c44cd0ba-d867-4c90-bd07-8dadb4c81def1535371116860-Shaily-Cream-Kanjivaram-Silk-Saree-5091535371116691-1.jpg",
+            "size":["oneSize"],
+            "price":"1999",
+            "brand":"Vipul"
+        },"produt12_saree":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11458584/2020/3/9/fcde4e63-2f64-4492-8f28-ccedc2e916851583755134994-Mitera-Women-Sarees-2331583755132713-1.jpg",
+            "size":["oneSize"],
+            "price":"1850",
+            "brand":"Mitera"
+        }       
+    }   
+},
+"kids":{
+    "pants":{
+        "produt1_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8858237/2019/3/25/f4cc3a78-724c-4556-85c4-9118d0fff71e1553493094922-US-Polo-Assn-Kids-Boys-Jeans-7961553493094099-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"800",
+            "brand":"U.S Polo Assn Jeans"
+        },
+        "produt2_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10213801/2019/7/26/efeb862a-8b04-4498-a18b-8f8c9a12a6761564120694305-United-Colors-of-Benetton-Boys-Jeans-4441564120693015-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"790",
+            "brand":"H & M Jeans"
+        },"produt3_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10213851/2019/7/26/f93f0b11-9d79-42d0-a67b-dcc377f296241564120336962-United-Colors-of-Benetton-Boys-Jeans-6381564120335778-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"850",
+            "brand":"united Colors Of Benetton Jeans"
+
+        },"produt4_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7189003/2018/9/10/270c56ad-5ea8-4126-a2bd-d13cdd8923bc1536557555711-United-Colors-of-Benetton-Boys-Blue-Regular-Fit-Mid-Rise-Cle-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"950",
+            "brand":"Cobb Jeans"
+
+        },"produt5_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7454898/2019/7/29/7de1d0bd-8265-4cb4-a376-76588482b9a71564401574924-United-Colors-of-Benetton-Boys-Navy-Regular-Fit-Mid-Rise-Cle-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"700",
+            "brand":"Calvin Klein Jeans"
+
+        },"produt6_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7454857/2018/9/27/92c58b1b-bf9b-4082-90f3-d3efaff901501538045869251-United-Colors-of-Benetton-Boys-Jeans-5791538045869163-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"1000",
+            "brand":"Pepe Jeans"
+
+        },"produt7_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8982881/2019/5/7/1cc05162-0238-419b-838f-b2513b0c5c831557211616882-GAP-Boy-Indigo-Canvas-Joggers-9471557211616461-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"1250",
+            "brand":"GAP Jeans"
+
+        },"produt8_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11314746/2020/6/12/9c24b302-41de-44a1-a307-91d1db693f011591902585449GiniandJonyGirlsYellowPrintedRoundNeckT-shirtClothingSetMoms1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"1350",
+            "brand":"GAP Jeans"
+
+        },"produt9_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7116587/2019/1/30/cddaa411-d342-4b15-b1a4-74f18a45f4011548837073780-GAP-Boys-Khaki-Pull-On-Canvas-Joggers-3291548837073064-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"1300",
+            "brand":"Roadster Jeans"
+
+        },"produt10_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8858239/2019/3/25/025bb51d-fc97-46da-acba-4f321375d1571553493107391-US-Polo-Assn-Kids-Boys-Jeans-9211553493106625-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"999",
+            "brand":"Highlander Jeans"
+        },"produt11_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/29/b5ca05b7-26fd-4c94-9a1d-523348ea9da01601337787589-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"1300",
+            "brand":"Roadster Jeans"
+
+        },"produt12_kids":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/29/b9905e1c-a427-4a51-bfca-d20c0cf060f71601334513367-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"999",
+            "brand":"Highlander Jeans"
+        }
+    },
+    "tShirt":{
+        "produt1_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/7/19/0449c939-7fa1-4755-bb5d-53b0025db3e01595110038743-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"890",
+            "brand":"Hellcat T-Shirt"
+        },
+        "produt2_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12084040/2020/7/14/a10f97a8-a4ee-4cde-aaf9-200184e6f86c1594723294647PrintedT-shirt1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"350",
+            "brand":"H&M T-Shirt"
+        },"produt3_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/7/29/97ace377-38b1-467c-a6bc-b9f26fcaf11c1595973030740-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"900",
+            "brand":"H&M T-Shirt"
+        },"produt4_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8378503/2020/6/19/40845986-1f32-4140-859f-e90e966cd3b51592541418460-Pepe-Jeans-Boys-Tshirts-9311592541417674-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"799",
+            "brand":"Pepe Jeans T-Shirt"
+        },"produt5_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11273980/2020/7/24/7472c846-69af-44f6-8188-a4923e6bb1591595557087112PepeJeansBoysWhitePrintedRoundNeckT-shirt1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"450",
+            "brand":"Pepe Jeans T-Shirt"
+        },"produt6_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11273884/2020/7/22/04631aa6-6f17-4a9d-854f-f3d31113314e1595423503636PepeJeansBoysNavyBluePrintedRoundNeckT-shirt1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"550",
+            "brand":"Pepe Jeans T-Shirt"
+        },"produt7_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11245520/2020/8/14/61bfb4de-82ab-4eeb-b4ee-354dc062c61f1597406185550-HRX-by-Hrithik-Roshan-Boys-Blue--White-Printed-Rapid-Dry-Lif-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"850",
+            "brand":"HRX T-Shirt"
+        },"produt8_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11713782/2020/8/6/006dbd8a-dd47-4976-838e-275f61c0bdb21596693744663-Provogue-Boys-Navy-Blue-Printed-Round-Neck-T-shirt-160159669-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"1900",
+            "brand":"Tommy T-Shirt"
+        },"produt9_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11245450/2020/8/14/a5906a6d-cf79-43db-98cc-0ce5eb2e56b91597406287087-HRX-by-Hrithik-Roshan-Boys-Black-Printed-Rapid-Dry-Lycra-Lif-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"350",
+            "brand":"HRX T-Shirt"
+        },"produt10_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11713714/2020/8/6/6b5a2059-cfff-4d89-8788-aaf9c5af484a1596693858236-Provogue-Boys-Yellow-Printed-Polo-Collar-T-shirt-74215966938-1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"550",
+            "brand":"Puma T-Shirt"
+        },"produt11_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12053548/2020/7/22/40f4cb6f-7643-4fd3-b017-8154d8b6d7d71595416797225-Cherry-Crumble-Boys-White--Blue-Colourblocked-Polo-Collar-T--1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"1300",
+            "brand":"Roadster "
+
+        },"produt12_kids_T":{
+            "url":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12053496/2020/7/22/fb7f23fc-a160-4c3f-a34f-1a173c4a7ef51595405824744CherryCrumbleBoysWhiteColourblockedPoloCollarT-shirt1.jpg",
+            "size":["3-5Y","5-7Y","7-9Y","9-11Y"],
+            "price":"999",
+            "brand":"Highlander"
+        }
+    }
+}
+
+}

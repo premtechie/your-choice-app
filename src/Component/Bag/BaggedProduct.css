@@ -1,0 +1,36 @@
+.wished{
+    margin: 10px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    border-radius: 7px;
+
+}
+
+.wishedDetail{
+    display: flex;
+    align-items: center;
+    height: 170px;
+}
+.wishedDetail img{
+    width: 120px;
+    height: 100%;
+    border-radius: 7px;
+}
+.wishedDetail .priceDetails{
+    padding-left:30px;
+}
+.bag-btn{
+    display: flex;
+    flex-flow: column;
+}
+.bag-btn button{
+    font-size: 12px;
+    margin:5px;
+    padding: 10px;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 7px;
+}
