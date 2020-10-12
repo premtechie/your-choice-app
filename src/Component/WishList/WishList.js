@@ -13,7 +13,6 @@ class WishList extends Component{
     componentDidMount(){
         axios.get('/wishlist.json').
         then(response=>{
-            console.log(response.data)
             const fetchedData=[];
             for(let key in response.data){
                 fetchedData.push({
@@ -22,7 +21,6 @@ class WishList extends Component{
                 })
             }
             this.setState({data:fetchedData})
-            console.log(fetchedData)
         })
     }    
 
@@ -30,6 +28,7 @@ class WishList extends Component{
 
         return (
             <div className='wishList'>
+                <h4>WishList Products : </h4>
                 {this.props.item.map(product=>(
                     <WishedProduct key={product.key} onAddToBagHandler={()=>this.props.onSendBag(product.id,product)} onDeleteHandler={()=>this.props.onDelete(product.id,product)}  productDetails={product} />
                 ))}

@@ -40,9 +40,9 @@ class Bag extends Component{
         this.props.history.push('/checkout',data,this.pricehandler())
     }
     render(){
-        console.log(this.props)
         return (
             <div className='wishList'>
+                <h4>Bag Products : </h4>
                 {this.props.item.map(product=>(
                     <BaggedProduct key={product.id} removeHandler={()=>this.props.onDelete(product.id,product)}  productDetails={product} />
                 ))}

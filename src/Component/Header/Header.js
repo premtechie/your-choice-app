@@ -16,17 +16,15 @@ import Backdrop from '../backdrop/Backdrop';
 
 function Header(props){
     
-        const {logged}=props
-        console.log('logged : ', props.logged)
-        // console.log('props : ', props)
-        // const values=JSON.parse(localStorage.getItem('document'));
-        // console.log(values)
+    const {logged}=props
     return  (
         <Fragment>
         <div className='header'>
             <div className='content-1'>
                 <div className='logo'>
-                    <img src={logo} alt='' />
+                    <Link to='/' >
+                        <img src={logo} alt='' />
+                    </Link>
                 </div>
                 <div className='catagory'>
                     <Link to='/' style={{color:"black",textDecoration:'none'}}><p>Mens</p></Link>
@@ -35,17 +33,7 @@ function Header(props){
                 </div>
             </div>
             <div className='content-2'>
-                {/* <div className='search'>
-                    <div >
-                        <SearchIcon />
-                    </div>
-                        <InputBase 
-                            style={{fontSize:'12px'}}
-                        placeholder="Search Products, brands"
-                        inputProps={{ 'aria-label': 'search' }}
-                        />
-                </div> */}
-
+                
                 <Route render={({history})=>(
                     <div className='profile' onClick={props.logged ?()=>history.push('/profile/userprofile') :()=>history.push('/profile') }>
                         <PermIdentityIcon />

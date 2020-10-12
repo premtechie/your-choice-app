@@ -8,9 +8,6 @@ import {bagWishlistClear} from '../ActionCreator/ProductActions'
 
 function Checkout (props){
     const orderItems=props.location.state;
-    console.log(props.location.state.map(a=>a.brand));
-    console.log(orderItems)
-
     const getPrice=()=>{
         let totalPrice=0;
         props.location.state.map(a=>{

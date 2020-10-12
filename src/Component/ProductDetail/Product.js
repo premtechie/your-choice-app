@@ -29,7 +29,6 @@ class Product extends React.Component{
             }
             this.setState({fetchedData:fetched})
         })
-        console.log(this.state.fetchedData)
     }
 
     getProduct(){
@@ -72,7 +71,6 @@ class Product extends React.Component{
             alert('select Size or Enter Product Count')
         }
 
-        console.log(product)
     }
     bagHandler=()=>{
         const product={
@@ -92,7 +90,6 @@ class Product extends React.Component{
             alert('select Size or Enter Product Count')
         }
         
-        console.log(product)
     }
     alertFunc=()=>{
         alert('Please Login')
@@ -105,7 +102,6 @@ class Product extends React.Component{
         const url = this.props.location.state.url
         
         const id=this.getProductDetails().id
-        // console.log('[products]:' ,)
        //---------------------------------- 
         const data={
             url:this.props.location.state.url,
@@ -161,7 +157,6 @@ class Product extends React.Component{
 
 
 const mapStateToProps = (state) => {
-    console.log("MAP STATE PROPS : ",state);
     return {
         prod: state.productDetails,
         logged:state.logged

@@ -9,9 +9,6 @@ import {connect} from 'react-redux'
 
 function sideBar(props){
 
-
-    console.log(props.logged)
-
     return(
         <div className='sideBar'>
 

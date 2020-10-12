@@ -75,7 +75,6 @@ const selectProductSize = (state,action) => {
         ...state,
         productDetails
     }
-    // console.log(productId,'[reducer size]')
 
 }
 
@@ -97,7 +96,6 @@ const decrementProduct=(state,action)=>{
 const createProduct=(state,action)=>{
     let productDetails=state.productDetails
     let payload = action.payload;
-    console.log('ACTION PAYLOAD : ',productDetails,payload);
     return {
         ...state,
         productDetails : {
@@ -115,23 +113,11 @@ function wishListProduct(state,action){
     const prod=existingUser.some(user=>user.id===newProduct.id)
     const fetchedProduct=action.payload.existingProduct
     const fetched=[]
-    // useEffect(()=>{
-    //     data.get('/wishlist.json').then(response=>{
-    //         fetched.push(response.data)
-    //     })
-    // })
-    // data.get('/wishlist.json').then(response=>{
-    //         fetched.push(response.data)
-    // })
-    // const prod=fetched.some(user=>user.id===newProduct.id)
     if(!newProduct.size){
         alert('Please Select Size')
     }
     else{
         if(!prod){
-        //    data.post('/wishlist.json',newProduct).then(response=>{
-        //        alert('sent to wishlist')
-        //    })
            existingUser.push(newProduct)
            alert('product Sent')
         }
@@ -164,7 +150,6 @@ const bagProduct=(state,action)=>{
             alert('alredy Bagged')
         }
     }
-    console.log('[bag Product] : ',state.wishList)
     return {
         ...state,
         bag:existingUser
@@ -178,7 +163,6 @@ const bagProduct=(state,action)=>{
 const deleteItem=(state,action)=>{
     let newItem=action.payload.data
     let existingItem=state.wishList.filter(item=>item.id!==newItem.id);
-    console.log('RemoveItem',state.WishList)
     
     return {
         ...state,
@@ -188,7 +172,6 @@ const deleteItem=(state,action)=>{
 const removeItem=(state,action)=>{
     let newItem=action.payload.data
     let existingItem=state.bag.filter(item=>item.id!==newItem.id);
-    console.log('RemoveItem',state.bag)
     
     return {
         ...state,
@@ -199,8 +182,6 @@ const removeItem=(state,action)=>{
 const addWishlistToBag=(state,action)=>{
     let newItem=action.payload.data
     let existingItem=state.wishList.filter(item=>item.id!==newItem.id);
-    console.log('Item',state.WishList)
-    console.log('ItemBagged',state.bag)
     let bagProduct=state.bag
     const newProduct=action.payload.data;
     
@@ -220,7 +201,6 @@ const addWishlistToBag=(state,action)=>{
 }
 
 const signUpHandler=(state,action)=>{
-    console.log('works fine : ', state.logged)
     return{
         ...state,
         logged:!state.logged
@@ -236,7 +216,6 @@ const bagWishListHandler=(state,action)=>{
 }
 
 const signOutHandler=(state,action)=>{
-    console.log('works fine : ', state.logged)
     return{
         ...state,
         logged:!state.logged

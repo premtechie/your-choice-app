@@ -9,16 +9,12 @@ function UserDetails(props){
 
     useEffect(()=>{
         onSignUp()
-        // const timeFunc=()=>{setTimeout(()=>props.history.push('/'),1000)}
-        // timeFunc()
     },[])
 
     const signOutProfile=()=>{
         props.history.push('/profile')
         props.onSignOut()
     }
-    console.log(props.show)
-    console.log(props)
 
     return (
         <div className='userDetails'>

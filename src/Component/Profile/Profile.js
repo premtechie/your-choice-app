@@ -30,7 +30,6 @@ class Profile extends Component{
             this.setState({
                 fetchedUserData:d
             })
-            console.log(d.map(a=>a))
         })
     }
 
@@ -81,16 +80,12 @@ class Profile extends Component{
             return errors;
         }
         const onSubmit=values=>{
-            console.log('values',values)
-            // alert(values.email)
             this.setState({show:false})
             username=values.email
             let data={...values}
             this.props.history.push('/profile/userprofile',data)
             localStorage.setItem('document',JSON.stringify(data))
-            axios.post('https://shine-b55d9.firebaseio.com/userDetails.json',values).then(response=>{
-                console.log(response)
-            })
+            axios.post('https://shine-b55d9.firebaseio.com/userDetails.json',values)
         }
 
         // -------------------------login----------------------------------
@@ -118,7 +113,6 @@ class Profile extends Component{
             return errors;
         }
         const loginSubmit=values=>{
-            console.log('values',values)
             this.setState({show:false})
             let data={...values}
             this.props.history.push('/profile/userprofile',data)

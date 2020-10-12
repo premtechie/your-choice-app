@@ -24,7 +24,6 @@ export const decrementItem = (data) =>{
 }
 
 export const selectedSize = (id,size)=>{
-    console.log(size)
     return {
         type: SELECT_SIZE,
         payload : {
