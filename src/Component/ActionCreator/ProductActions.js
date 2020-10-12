@@ -1,6 +1,6 @@
 import { CREATE_PRODUCT,INCREMENT_ITEM,DECREMENT_ITEM,
         SELECT_SIZE,ADD_TO_WISHLIST,DEL_ITEM, ADD_TO_BAG,
-        REMOVE_ITEM,ADD_WISHLIST_TO_BAG,SIGN_IN_HANDLER, BAG_WISHLIST_CLEAR } from '../redux/actions';
+        REMOVE_ITEM,ADD_WISHLIST_TO_BAG,SIGN_IN_HANDLER, BAG_WISHLIST_CLEAR,SIGN_OUT_HANDLER } from '../redux/actions';
 
 export const createProduct = (data) =>{
     return {
@@ -93,5 +93,11 @@ export const signUpUpdate=()=>{
 export const bagWishlistClear=()=>{
     return {
         type:BAG_WISHLIST_CLEAR
+    }
+}
+
+export const signOutUpdate=()=>{
+    return {
+        type:SIGN_OUT_HANDLER
     }
 }

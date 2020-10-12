@@ -35,7 +35,7 @@ export default class Kids extends Component{
                 <img src={image2} className="sliderimg" alt='' />
             </AliceCarousel>
             <ProductList title='T-Shirts for Kids' products={this.transformProduct(tShirt)} handler={this.handler} />
-            <ProductList title='T-Shirts for Kids' products={this.transformProduct(pant)} handler={this.handler} />
+            <ProductList title='Pants for Kids' products={this.transformProduct(pant)} handler={this.handler} />
         </div>
     )
     }

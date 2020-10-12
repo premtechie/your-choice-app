@@ -1,6 +1,5 @@
 import * as actionTypes from './actions';
 import data from '../Axios/data'
-import { bagWishlistClear } from '../ActionCreator/ProductActions';
 
 const initialState={
     open:false,
@@ -44,6 +43,8 @@ const reducer=(state=initialState,action)=>{
             return signUpHandler(state,action)
         case actionTypes.BAG_WISHLIST_CLEAR:
             return bagWishListHandler(state,action)
+        case actionTypes.SIGN_OUT_HANDLER:
+            return signOutHandler(state,action)
         default:
             return state
     } 
@@ -222,7 +223,7 @@ const signUpHandler=(state,action)=>{
     console.log('works fine : ', state.logged)
     return{
         ...state,
-        logged:true
+        logged:!state.logged
     }
 }
 
@@ -234,5 +235,12 @@ const bagWishListHandler=(state,action)=>{
     }
 }
 
+const signOutHandler=(state,action)=>{
+    console.log('works fine : ', state.logged)
+    return{
+        ...state,
+        logged:!state.logged
+    }
+}
 
 export default reducer;

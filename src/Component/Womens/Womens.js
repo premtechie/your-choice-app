@@ -33,7 +33,7 @@ export default class Womens extends Component{
                 <img src={image2} className="sliderimg" alt='' />
             </AliceCarousel>
             <ProductList title='Kurtis for Womens' products={this.transformProduct(kurtis)} handler={this.handler} />
-            <ProductList title='Kurtis for Womens' products={this.transformProduct(saree)} handler={this.handler} />
+            <ProductList title='Sarees for Womens' products={this.transformProduct(saree)} handler={this.handler} />
 
         </div>
     )
